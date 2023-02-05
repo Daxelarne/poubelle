@@ -1,0 +1,5 @@
+# Nom du menu de la poubelle
+poubelleName: §2§lPoubelle
+
+# Nombre de ligne de la poubelle (min = 0 | max = 6)
+poubelleRows: 4

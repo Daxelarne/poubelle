@@ -1,0 +1,9 @@
+name: poubelle
+version: 0.0.1-SNAPSHOT
+author: Daxelarne
+main: daxelarne.knightworld.poubelle.Main
+api-version: 1.19
+commands:
+  poubelle:
+    description: Ouvre la poubelle
+    usage: /<command>
